@@ -1,0 +1,13 @@
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('PRKAA1'),cell_line(c1)), 0.03515626053925589).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('ROCK1'),cell_line(c1)), 0.020296710656348613).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('TRPM7'),cell_line(c1)), 0.04502514619263733).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('CAMK2D'),cell_line(c1)), 0.012191396217962462).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('MAPK1'),cell_line(c1)), 0.005704479950710535).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('MARK3'),cell_line(c1)), 0.014296991239361838).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('RIPK2'),cell_line(c1)), 0.03829169213091304).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('PRKACA'),cell_line(c1)), 1.1086341159101242e-05).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('NEK9'),cell_line(c1)), 0.7102295548360872).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('MTOR'),cell_line(c1)), 0.013056848379784774).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('CDK1'),cell_line(c1)), 0.5075298088639073).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('CHEK1'),cell_line(c1)), 0.23620921927900665).
+problog_result(doesDinhibitKinC4(perturbation('TBCA'),kinase('CDK2'),cell_line(c1)), 0.04883912776464903).

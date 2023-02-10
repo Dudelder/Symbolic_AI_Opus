@@ -1,0 +1,11 @@
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('RPS6KA1'),cell_line(c1)), 0.6362261076750718).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('PRKD1'),cell_line(c1)), 0.020105605886180402).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('CHEK1'),cell_line(c1)), 0.227101068043002).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('ROCK1'),cell_line(c1)), 0.02698356238518424).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('NEK9'),cell_line(c1)), 0.6084412411003696).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('PKN1'),cell_line(c1)), 0.2730308043448479).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('ATM'),cell_line(c1)), 0.07967907894260431).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('GSK3B'),cell_line(c1)), 0.16118561609914117).
+problog_result(doesDinhibitKinC4(perturbation('Amuvatinib'),kinase('GSK3B'),cell_line(c1)), 0.034223401410337785).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('MTOR'),cell_line(c1)), 0.5291505900842796).
+problog_result(doesDinhibitKinC4(perturbation('PH797804'),kinase('CDK2'),cell_line(c1)), 0.028487058714154943).

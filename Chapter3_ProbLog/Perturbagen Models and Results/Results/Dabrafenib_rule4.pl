@@ -1,0 +1,15 @@
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('PRKD1'),cell_line(c1)), 0.0317805730514225).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('RPS6KA1'),cell_line(c1)), 0.6362261076750718).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('AKT1'),cell_line(c1)), 0.024078107264305232).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('WEE1'),cell_line(c1)), 0.0004907401367998957).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('RIPK2'),cell_line(c1)), 0.0026100036673242237).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('GSK3B'),cell_line(c1)), 0.16118561609914117).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('CDK7'),cell_line(c1)), 0.014165550162631957).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('PAK4'),cell_line(c1)), 0.009011473085329992).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('PRKACA'),cell_line(c1)), 0.011597718016505406).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('ATM'),cell_line(c1)), 0.2865511113528316).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('STK17A'),cell_line(c1)), 0.5663614747249476).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('MTOR'),cell_line(c1)), 0.026534101542363745).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('CHEK1'),cell_line(c1)), 0.22547587523466453).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('CDK1'),cell_line(c1)), 0.020730720960637477).
+problog_result(doesDinhibitKinC4(perturbation('Dabrafenib'),kinase('CDK2'),cell_line(c1)), 0.04754270222176001).

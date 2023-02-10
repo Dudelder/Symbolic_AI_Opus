@@ -1,0 +1,10 @@
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('PRKCA'),cell_line(c1)), 0.0007980073374490267).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('CHEK1'),cell_line(c1)), 0.227101068043002).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('CDK2'),cell_line(c1)), 0.023427293306698644).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('MTOR'),cell_line(c1)), 0.2251733172710032).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('PKN1'),cell_line(c1)), 0.2730308043448479).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('TRPM7'),cell_line(c1)), 0.19418383704249587).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('AKT1'),cell_line(c1)), 0.000723588600712313).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('PRKACA'),cell_line(c1)), 0.1341335019693442).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('GSK3B'),cell_line(c1)), 0.19064488227708148).
+problog_result(doesDinhibitKinC4(perturbation('Selumetinib'),kinase('CDK1'),cell_line(c1)), 0.015464685482484959).

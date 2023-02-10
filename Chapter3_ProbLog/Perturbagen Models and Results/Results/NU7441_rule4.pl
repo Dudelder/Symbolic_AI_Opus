@@ -1,0 +1,14 @@
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('PRKCA'),cell_line(c1)), 0.02137615389458224).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('PAK4'),cell_line(c1)), 2.2933946783590626e-07).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('GSK3B'),cell_line(c1)), 0.16118561609914114).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('RPS6KA3'),cell_line(c1)), 0.015819938005320642).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('CDK7'),cell_line(c1)), 0.03678513338770684).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('CHEK1'),cell_line(c1)), 0.227101068043002).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('MARK3'),cell_line(c1)), 0.008168332090909228).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('ATM'),cell_line(c1)), 0.33979640637648334).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('ABL1'),cell_line(c1)), 0.005549972904760653).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('STK17A'),cell_line(c1)), 0.5663614747249476).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('AKT1'),cell_line(c1)), 0.10422743299794933).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('CDK1'),cell_line(c1)), 0.009331908049052139).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('CDK2'),cell_line(c1)), 0.026635403640253498).
+problog_result(doesDinhibitKinC4(perturbation('NU7441'),kinase('MTOR'),cell_line(c1)), 0.5060209107728372).

@@ -1,0 +1,15 @@
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('CDK7'),cell_line(c1)), 1.1641298824953637e-09).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('GSK3B'),cell_line(c1)), 0.5338681500541922).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('CHEK1'),cell_line(c1)), 0.227101068043002).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('NEK9'),cell_line(c1)), 0.6084412411003692).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('TNIK'),cell_line(c1)), 0.27686937721345456).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('PRKCA'),cell_line(c1)), 0.007273077040733953).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('MAPK1'),cell_line(c1)), 0.017835541032620396).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('ROCK1'),cell_line(c1)), 0.02546896534059032).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('PAK1'),cell_line(c1)), 0.016598336602334354).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('STK17A'),cell_line(c1)), 0.5545492030550354).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('CDK1'),cell_line(c1)), 0.5055587600546413).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('ATM'),cell_line(c1)), 0.08054432762645211).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('CDK2'),cell_line(c1)), 0.2020296648376025).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('MAPK3'),cell_line(c1)), 0.03564065432800239).
+problog_result(doesDinhibitKinC4(perturbation('Ribociclib'),kinase('MTOR'),cell_line(c1)), 0.24452285627175654).

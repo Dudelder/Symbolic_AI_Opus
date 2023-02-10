@@ -1,0 +1,88 @@
+HOW TO RECORD A PROLOG TRACE/OUTPUT
+
+
+Since the SWI-Prolog terminal on Windows will default to using color with tracing and that will add unneeded escape sequences to the output file set_prolog_flag/2 needs to be run to turn the color off.
+
+?- set_prolog_flag(color_term,false).
+true.
+
+Verify that the terminal is not using color.
+
+?- current_prolog_flag(color_term,X).
+X = false.
+
+A quick run to verify the predicate and facts work
+
+?- ancestor(ann,henry).
+true ;
+false.
+
+Now set the current working directory to where the output file will be created.
+
+?- working_directory(_,"C:/Users/Eric/Documents/Prolog").
+
+and verify that the change occurred
+
+?- working_directory(CWD,CWD).
+CWD = 'c:/users/eric/documents/prolog/'.
+
+Since I don't want to press the space bar for each trace output I disable user interaction for all the debug ports using leash/1
+
+?- leash(-all).
+
+and since I want to see all of the output from all of the debug ports I enable them all with visible/1
+
+?- visible(+all).
+
+Enable the copying of the screen to a file
+
+?- protocol("./trace_output.txt").
+
+start the tracer
+
+?- trace.
+
+and run a query to be traced
+
+?- ancestor(ann,henry).
+
+   Call: (8) ancestor(ann, henry) ? creep
+   Call: (9) parent(ann, henry) ? creep
+   Fail: (9) parent(ann, henry) ? creep
+   Redo: (8) ancestor(ann, henry) ? creep
+   Call: (9) parent(ann, _1124) ? creep
+   Exit: (9) parent(ann, helen) ? creep
+   Call: (9) ancestor(helen, henry) ? creep
+   Call: (10) parent(helen, henry) ? creep
+   Exit: (10) parent(helen, henry) ? creep
+   Exit: (9) ancestor(helen, henry) ? creep
+   Exit: (8) ancestor(ann, henry) ? creep
+true ;
+   Redo: (9) ancestor(helen, henry) ? creep
+   Call: (10) parent(helen, _1124) ? creep
+   Exit: (10) parent(helen, henry) ? creep
+   Call: (10) ancestor(henry, henry) ? creep
+   Call: (11) parent(henry, henry) ? creep
+   Fail: (11) parent(henry, henry) ? creep
+   Redo: (10) ancestor(henry, henry) ? creep
+   Call: (11) parent(henry, _1124) ? creep
+   Exit: (11) parent(henry, mary) ? creep
+   Call: (11) ancestor(mary, henry) ? creep
+   Call: (12) parent(mary, henry) ? creep
+   Fail: (12) parent(mary, henry) ? creep
+   Redo: (11) ancestor(mary, henry) ? creep
+   Call: (12) parent(mary, _1124) ? creep
+   Fail: (12) parent(mary, _1124) ? creep
+   Fail: (11) ancestor(mary, henry) ? creep
+   Fail: (10) ancestor(henry, henry) ? creep
+   Fail: (9) ancestor(helen, henry) ? creep
+   Fail: (8) ancestor(ann, henry) ? creep
+false.
+
+end the tracing
+
+?- nodebug.
+
+and end the copying of the screen to the file
+
+?- noprotocol.

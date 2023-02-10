@@ -1,0 +1,12 @@
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('PRKACA'),cell_line(c1)), 0.13418794692072414).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('GSK3B'),cell_line(c1)), 0.16118561609914114).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('MTOR'),cell_line(c1)), 0.2251733172710032).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('CHEK1'),cell_line(c1)), 0.227101068043002).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('MARK3'),cell_line(c1)), 0.0003140989051742978).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('AKT1'),cell_line(c1)), 0.5505374580017721).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('PAK2'),cell_line(c1)), 4.5232093150367814e-05).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('ROCK1'),cell_line(c1)), 0.017231833881947385).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('TRPM7'),cell_line(c1)), 0.006163138583986201).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('ATM'),cell_line(c1)), 0.288437464850235).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('CDK2'),cell_line(c1)), 0.0222413888992673).
+problog_result(doesDinhibitKinC4(perturbation('DNAPK'),kinase('STK17A'),cell_line(c1)), 0.5696361140380494).

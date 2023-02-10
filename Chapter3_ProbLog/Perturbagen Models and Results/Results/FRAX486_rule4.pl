@@ -1,0 +1,17 @@
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('CHEK1'),cell_line(c1)), 0.019566104497170684).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('PRKCA'),cell_line(c1)), 0.4200291088235036).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('PRKD1'),cell_line(c1)), 0.01441535100971051).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('NEK9'),cell_line(c1)), 0.0002482015446750544).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('PRKAA1'),cell_line(c1)), 0.014544674944442585).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('AKT1'),cell_line(c1)), 0.10374437675607438).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('PAK4'),cell_line(c1)), 0.0002218122173106597).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('MTOR'),cell_line(c1)), 0.02459167954014584).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('CDK5'),cell_line(c1)), 0.0034971865958739806).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('CHUK'),cell_line(c1)), 0.010807061371144951).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('PRKACA'),cell_line(c1)), 0.0065700321545626664).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('PAK2'),cell_line(c1)), 5.318597925630861e-07).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('PAK1'),cell_line(c1)), 0.0025510196876357303).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('ABL1'),cell_line(c1)), 0.0043675098594643715).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('GSK3B'),cell_line(c1)), 0.049026921892090077).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('ATM'),cell_line(c1)), 0.07679827474984274).
+problog_result(doesDinhibitKinC4(perturbation('FRAX486'),kinase('STK17A'),cell_line(c1)), 0.536990386935864).

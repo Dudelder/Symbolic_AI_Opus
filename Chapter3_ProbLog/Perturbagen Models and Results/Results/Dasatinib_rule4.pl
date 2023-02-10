@@ -1,0 +1,16 @@
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('MARK3'),cell_line(c1)), 0.013703712204038706).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('RPS6KA1'),cell_line(c1)), 0.6362261076750718).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('PAK1'),cell_line(c1)), 0.021560609791755947).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('RIPK2'),cell_line(c1)), 1.2749117717013527e-09).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('GSK3B'),cell_line(c1)), 0.16118561609914117).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('CHEK1'),cell_line(c1)), 0.22710106804300206).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('AKT1'),cell_line(c1)), 8.556330375722172e-06).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('CAMK2D'),cell_line(c1)), 0.032855405228870635).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('STK17A'),cell_line(c1)), 0.5663614747249476).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('PAK2'),cell_line(c1)), 0.00017760621917512723).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('PRKAA1'),cell_line(c1)), 0.04389262485127054).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('MTOR'),cell_line(c1)), 0.2313691958497545).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('ATM'),cell_line(c1)), 0.2917631556394321).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('PAK4'),cell_line(c1)), 0.09854194200075998).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('CDK1'),cell_line(c1)), 0.023944766618286744).
+problog_result(doesDinhibitKinC4(perturbation('Dasatinib'),kinase('CDK2'),cell_line(c1)), 0.021448762635787134).

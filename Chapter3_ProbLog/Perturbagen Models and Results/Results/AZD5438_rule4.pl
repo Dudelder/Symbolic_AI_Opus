@@ -1,0 +1,15 @@
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('GSK3A'),cell_line(c1)), 0.00958837733137595).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('PRKAA1'),cell_line(c1)), 0.022661084534514597).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('PAK1'),cell_line(c1)), 0.013398250326014086).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('PRKCD'),cell_line(c1)), 0.0018084769772795173).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('MARK3'),cell_line(c1)), 4.8716043474264023e-05).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('RIPK2'),cell_line(c1)), 0.009526804151971073).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('STK17A'),cell_line(c1)), 0.5663614747249476).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('MAPK1'),cell_line(c1)), 1.4988156451302477e-07).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('RPS6KA4'),cell_line(c1)), 0.009831435667369347).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('MAPK3'),cell_line(c1)), 1.8421009996125702e-06).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('GSK3B'),cell_line(c1)), 0.04039958881296808).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('CDK5'),cell_line(c1)), 0.005999758364525879).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('CHEK1'),cell_line(c1)), 0.2577764632873058).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('CDK2'),cell_line(c1)), 0.05206878731308541).
+problog_result(doesDinhibitKinC4(perturbation('AZD5438'),kinase('CDK1'),cell_line(c1)), 0.8551837698402543).

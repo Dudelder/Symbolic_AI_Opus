@@ -1,0 +1,10 @@
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('CDK7'),cell_line(c1)), 0.04613203617508767).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('RPS6KA1'),cell_line(c1)), 0.6362261076750717).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('WEE1'),cell_line(c1)), 0.027100178804966138).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('AKT1'),cell_line(c1)), 0.10374437675607438).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('PAK2'),cell_line(c1)), 0.0004346567717324636).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('STK17A'),cell_line(c1)), 0.5442738878239126).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('ATM'),cell_line(c1)), 0.33979640637648334).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('CHEK1'),cell_line(c1)), 0.227101068043002).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('PAK4'),cell_line(c1)), 0.016265926166381298).
+problog_result(doesDinhibitKinC4(perturbation('Ripasudil'),kinase('MTOR'),cell_line(c1)), 0.5146219461217642).

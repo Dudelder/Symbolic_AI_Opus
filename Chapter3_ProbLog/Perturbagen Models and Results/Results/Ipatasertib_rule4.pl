@@ -1,0 +1,13 @@
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('PRKCA'),cell_line(c1)), 0.025443432106205807).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('CHEK1'),cell_line(c1)), 0.010883470953153078).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('ROCK1'),cell_line(c1)), 0.018349659155617225).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('TRPM7'),cell_line(c1)), 6.619359010401002e-05).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('MAPK3'),cell_line(c1)), 0.004432472640606109).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('PRKCD'),cell_line(c1)), 0.0005524064079921493).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('NEK9'),cell_line(c1)), 0.02607657776865687).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('GSK3B'),cell_line(c1)), 0.16108995787369307).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('ATM'),cell_line(c1)), 0.0045363277146862405).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('CDK1'),cell_line(c1)), 0.4856315248568521).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('STK17A'),cell_line(c1)), 0.5663614747249475).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('CDK2'),cell_line(c1)), 0.024942354535968714).
+problog_result(doesDinhibitKinC4(perturbation('Ipatasertib'),kinase('MTOR'),cell_line(c1)), 0.03339752048671238).

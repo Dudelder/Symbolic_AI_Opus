@@ -1,0 +1,14 @@
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('PRKCD'),cell_line(c1)), 9.795080467721522e-09).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('ROCK1'),cell_line(c1)), 0.00043616366267964514).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('AKT1'),cell_line(c1)), 0.10374437675607438).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('PRKAA1'),cell_line(c1)), 0.014178509214701181).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('CDK7'),cell_line(c1)), 0.008229157918066375).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('PRKCA'),cell_line(c1)), 0.00014904890623078235).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('NEK9'),cell_line(c1)), 0.321781421890649).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('MAPK1'),cell_line(c1)), 0.018128672900662).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('CLK2'),cell_line(c1)), 0.021657778094226216).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('STK17A'),cell_line(c1)), 0.5663615467728641).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('CDK1'),cell_line(c1)), 0.00046321151442351056).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('CDK2'),cell_line(c1)), 0.03710930707369145).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('MTOR'),cell_line(c1)), 0.02934996588957714).
+problog_result(doesDinhibitKinC4(perturbation('Edelfosine'),kinase('PRKACA'),cell_line(c1)), 0.012664987842713226).

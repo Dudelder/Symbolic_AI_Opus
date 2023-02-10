@@ -1,0 +1,15 @@
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('ATM'),cell_line(c1)), 0.08055029641023641).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('ABL1'),cell_line(c1)), 0.0031962184445277326).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('PRKACA'),cell_line(c1)), 0.0029244496036175314).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('PLK1'),cell_line(c1)), 0.00015509338910657015).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('PRKD1'),cell_line(c1)), 0.004029043288729127).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('CAMK2D'),cell_line(c1)), 0.03175239550794464).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('MTOR'),cell_line(c1)), 0.22517331727100326).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('GSK3B'),cell_line(c1)), 0.16118561609914117).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('CDK7'),cell_line(c1)), 0.012928874762566947).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('PRKCA'),cell_line(c1)), 0.0026118785670625443).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('CHEK1'),cell_line(c1)), 0.0037420407725266467).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('STK17A'),cell_line(c1)), 0.6439026905105575).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('CDK2'),cell_line(c1)), 0.04021114735639072).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('PAK2'),cell_line(c1)): 0.01937403950975849).
+problog_result(doesDinhibitKinC4(perturbation('Tofacitinib'),kinase('CDK1'),cell_line(c1)), 0.05413986648786281).
